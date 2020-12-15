@@ -4,7 +4,7 @@
 #
 Name     : azure-mgmt-eventhub
 Version  : 3.0.0
-Release  : 6
+Release  : 7
 URL      : https://files.pythonhosted.org/packages/4b/f7/0b4f495af2368f4392c0450aa83576e59f6c49ca650cab299b5ddb52f98e/azure-mgmt-eventhub-3.0.0.zip
 Source0  : https://files.pythonhosted.org/packages/4b/f7/0b4f495af2368f4392c0450aa83576e59f6c49ca650cab299b5ddb52f98e/azure-mgmt-eventhub-3.0.0.zip
 Summary  : Microsoft Azure EventHub Management Client Library for Python
