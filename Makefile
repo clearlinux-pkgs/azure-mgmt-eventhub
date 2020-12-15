@@ -1,5 +1,5 @@
 PKG_NAME := azure-mgmt-eventhub
-URL = https://files.pythonhosted.org/packages/4b/f7/0b4f495af2368f4392c0450aa83576e59f6c49ca650cab299b5ddb52f98e/azure-mgmt-eventhub-3.0.0.zip
+URL = https://files.pythonhosted.org/packages/da/57/a950e9fd7e815f4f77b9dc8cfd4c336bc19380123220e3f718559dd60ae8/azure-mgmt-eventhub-8.0.0.zip
 ARCHIVES = 
 
 include ../common/Makefile.common
